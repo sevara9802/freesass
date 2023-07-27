@@ -1,0 +1,50 @@
+nav{
+      
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 0px 131px 0px;
+    
+    .nav__img{
+        width: 48px;
+        height: 49px;
+        
+    }
+    .nav__box{
+          
+         ul{
+            list-style: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 40px;
+         } 
+         a{
+            text-decoration: none;
+         } 
+         ul>li>a{
+            color: #000;
+           font-family: 'Metropolis';
+            font-size: 14px;
+           font-weight: 500;
+         }
+         .nav__menu__li{
+            display: flex;
+            gap: 4px;
+         }
+         ul button{
+        
+            color:  #722ED1;
+            font-family:' Metropolis';
+            font-size: 14px;
+            font-weight: 500;
+            padding: 12px 24px;
+            border-radius: 23px;
+            cursor: pointer;
+            border: none;
+         }
+        
+         
+        }
+       
+}

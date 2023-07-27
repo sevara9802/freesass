@@ -1,0 +1,171 @@
+footer{
+
+    background-color: #F6F6F6;
+    
+    margin-top: 128px;
+.footer__box{
+    width: 963px;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+ padding: 30px 30px;
+ width: 960px;
+    gap: 40px;
+   
+  
+   
+    .footer__box__1{
+        p{
+            color: #160637;
+            font-family: 'Metropolis';
+            font-size: 12px;
+            font-weight: 500;
+            line-height: 20px; 
+            padding-top: 14px; 
+            width: 209px;
+        }
+        // a{
+        //     display: flex;
+        //     i{
+        //         font-size: 25px;
+        //         border: 2px solid red;
+        //     }
+        // }
+
+    }
+    .footer__box__2{
+     display: flex;
+     flex-direction: column;
+     row-gap: 15px;
+        h5{
+            color: #160637;
+font-family: 'Metropolis';
+font-size: 16px;
+font-weight: 700;
+padding-bottom: 20px;
+        }
+        a{
+            color: #160637;
+font-family: 'Metropolis';
+font-size: 12px;
+font-weight: 500;
+text-decoration: none;
+
+
+        }
+    }
+    .footer__box__3{
+        display: flex;
+     flex-direction: column;
+     row-gap: 15px;
+        h5{
+            color: #160637;
+font-family: 'Metropolis';
+font-size: 16px;
+font-weight: 700;
+width: 121px;
+padding-bottom: 20px;
+        }
+        a{
+            color: #160637;
+font-family: 'Metropolis';
+font-size: 12px;
+font-weight: 500;
+text-decoration: none;
+        }
+    }
+    .footer__box__4{
+        display: flex;
+     flex-direction: column;
+     row-gap: 15px;
+        h5{
+            color: #160637;
+font-family: 'Metropolis';
+font-size: 16px;
+font-weight: 700;
+
+padding-bottom: 20px;
+        }
+        a{
+            color: #160637;
+font-family: 'Metropolis';
+font-size: 12px;
+font-weight: 500;
+text-decoration: none;
+        }
+    }
+    .footer__box__5{
+        display: flex;
+     flex-direction: column;
+     row-gap: 15px;
+        h5{
+            color: #160637;
+font-family: 'Metropolis';
+font-size: 16px;
+font-weight: 700;
+
+padding-bottom: 20px;
+        }
+        a{
+            color: #160637;
+font-family: 'Metropolis';
+font-size: 12px;
+font-weight: 500;
+text-decoration: none;
+        }
+    }
+    .footer__box__6{
+
+        h5{
+            color: #160637;
+font-family: 'Metropolis';
+font-size: 16px;
+font-weight: 700;
+width: 121px;
+padding-bottom: 20px;
+        }
+        .footer__icons{
+display: flex;
+
+width: 180px;
+
+
+input{
+border: none;
+padding: 16px 0px 16px 16px;
+width: 160px;
+}
+
+    img{
+        border: none;
+        width: 19px;
+        height: 19px;
+    margin-left: -42px;
+    margin-top: 12px;
+      }
+
+
+        }
+    }
+
+}
+.footer__case{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 55px 19px;
+    .footer__case__1{
+        p{
+            color: #160637;
+font-family: 'Metropolis';
+font-size: 16px;
+font-weight: 700;
+        }
+    }
+    .footer__case__img{
+        width: 24px;
+        height: 24px;
+    }
+}
+}
